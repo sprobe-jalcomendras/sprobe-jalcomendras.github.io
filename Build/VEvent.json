@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "VEvent",
+"productVersion": "0.1",
+"dataUrl": "VEvent.data.unityweb",
+"wasmCodeUrl": "VEvent.wasm.code.unityweb",
+"wasmFrameworkUrl": "VEvent.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
